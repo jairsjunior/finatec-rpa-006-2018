@@ -1,27 +1,27 @@
-# Edital Finatec Full-Stack
+# Edital Finatec Full-Stack - RPA 006/2018
 
 1. Requisitos:
     
-    - X Docker
-    - X ReactJS, AngularJS ou Vue.jS
-    - X Javascript
-    - X HTML5 / CSS3
-    - X NodeJS, Java ou Go
-    - X Web Crawling
-    - X MongoDB
-    - X Neo4J, orientDB, dGraph ou ArangoDB 
-    - X Elasticsearch, Solr, Fuse.js ou Lucene
-    - X PWA
-    - X Markdown
-    - X LDAP
-    - X OAuth / JWT / ACL
-    - X Python
-    - X Web Design / UX
-    - X Prometheus
-    - X Grafana
-    - X MQTT
-    - X Jaeger
-    - X Docker Swarm
+    - Docker
+    - ReactJS, AngularJS ou Vue.jS
+    - Javascript
+    - HTML5 / CSS3
+    - NodeJS, Java ou Go
+    - Web Crawling
+    - MongoDB
+    - Neo4J, orientDB, dGraph ou ArangoDB 
+    - Elasticsearch, Solr, Fuse.js ou Lucene
+    - PWA
+    - Markdown
+    - LDAP
+    - OAuth / JWT / ACL
+    - Python
+    - Web Design / UX
+    - Prometheus
+    - Grafana
+    - MQTT
+    - Jaeger
+    - Docker Swarm
 
 2. Repositórios:
 
@@ -37,6 +37,7 @@
         - NodeJS, Java ou Go
         - Markdown
         - Web Design / UX
+        - PWA
     
     - https://github.com/jairsjunior/manuh-bridge
 
@@ -62,10 +63,10 @@
     
     - https://github.com/jairsjunior/kafka-node
     
-    Projeto *opensource* onde efetuei modificações para inclusão de suporte ao mecanismo de autenticação OAuth dentro do padrão comunicação SASL.
-    RFC XXXX e RFC XXXX
+    Projeto *opensource* onde efetuei modificações para inclusão de suporte ao mecanismo de autenticação OAuth dentro do padrão comunicação SASL. RFC 4422 e RFC 7628
 
     Tecnologias Utilizadas:
+        - Kafka
         - NodeJS, Java ou Go
         - OAuth / JWT / ACL
     
@@ -102,6 +103,7 @@
         - Prometheus
         - Grafana
         - Jaeger
+        - PWA
 
 
 
